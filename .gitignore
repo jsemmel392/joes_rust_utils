@@ -1,0 +1,10 @@
+# Block the archives globally
+Archive/
+achive/
+
+# Block the build folders
+target/
+
+# Block OS junk
+.git/
+Thumbs.db
