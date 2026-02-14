@@ -19,9 +19,6 @@ Custom tools to make the terminal feel like home and keep AI in the loop.
 1. \`cd me\`
 2. \`cargo run\`
 
-
-
-## 🚀 Downloads
-You can download the compiled Windows executables directly:
-* [Download me.exe](https://github.com/jsemmel392/joes_rust_utils/releases/latest/download/me.exe)
-* [Download ts.exe](https://github.com/jsemmel392/joes_rust_utils/releases/latest/download/ts.exe)
+#
+## 🚀 Download
+* [Download Latest Releases (ZIP)](https://github.com/jsemmel392/joes_rust_utils/releases/latest)
