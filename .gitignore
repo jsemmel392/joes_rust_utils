@@ -8,3 +8,4 @@ target/
 # Block OS junk
 .git/
 Thumbs.db
+sync.cmd

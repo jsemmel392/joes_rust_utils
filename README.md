@@ -1,6 +1,6 @@
 # Joe's Rust Utils
 
-Custom tools to make the terminal feel like home and keep AI in the loop.
+Custom tools to make the terminal feel like home.
 
 ## The Tools
 
@@ -14,10 +14,6 @@ Custom tools to make the terminal feel like home and keep AI in the loop.
 **The AI Context Anchor.** More than just a clock—it generates precise timestamps to give AI models temporal awareness.
 * **Temporal Context:** Helps AI understand "when" a log or snippet was created.
 * **Standardization:** Ensures consistent time-formatting across your projects.
-
-## Quick Start
-1. \`cd me\`
-2. \`cargo run\`
 
 #
 ## 🚀 Download
