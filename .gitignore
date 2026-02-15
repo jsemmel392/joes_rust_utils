@@ -1,6 +1,7 @@
 # Block the archives globally
 Archive/
 achive/
+joes_utils/
 
 # Block the build folders
 target/
@@ -9,3 +10,7 @@ target/
 .git/
 Thumbs.db
 sync.cmd
+me.exe
+ts.exe
+joes_utils.zip
+README.txt
