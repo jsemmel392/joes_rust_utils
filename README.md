@@ -24,3 +24,4 @@ Custom tools to make the terminal feel like home.
 
 ---
 **By Joseph Abraham Semmel** | [💬 Reach out via Discussions](https://github.com/jsemmel392/joes_rust_utils/discussions)
+
